@@ -3,6 +3,6 @@
     <item
         android:width="66dp"
         android:height="66dp"
-        android:drawable="@drawable/ic_roll_sphere_1790699569927"
+        android:drawable="@drawable/stefan_gainey_icon_1790701324527"
         android:gravity="center" />
 </layer-list>

@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "RollSphere 3D"
+rootProject.name = "Stefan Gainey"
 
 include(":app")

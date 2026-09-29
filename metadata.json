@@ -1,6 +1,6 @@
 {
-  "name": "RollSphere 3D",
-  "description": "A fast-paced 3D rolling ball game with fluid momentum controls, physics tracks, collectibles, and customizable orbs.",
+  "name": "Stefan Gainey",
+  "description": "Direct access and embedded views for Stefan Gainey's YouTube channel and Twitch live streams.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
