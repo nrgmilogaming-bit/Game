@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RollSphere 3D</string>
+    <string name="play_game">Play Game</string>
+    <string name="levels">Levels</string>
+    <string name="endless">Endless Roll</string>
+    <string name="garage">Ball Skins</string>
+    <string name="settings">Settings</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="next_level">Next Level</string>
+    <string name="victory">Course Completed!</string>
+    <string name="game_over">Fell Into The Abyss!</string>
+</resources>
